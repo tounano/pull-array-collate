@@ -1,6 +1,6 @@
 {
   "name": "pull-array-collate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./array-collate-stream.js",
   "description": "Collate array objects and send them downstream.",
   "homepage": "https://github.com/tounano/pull-array-collate/",
